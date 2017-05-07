@@ -1,0 +1,15 @@
+﻿  Meshes.cpp
+c:\users\rlacj\documents\visual studio projects\directxsamples\meshes\meshes.cpp(23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\rlacj\documents\visual studio projects\directxsamples\meshes\meshes.cpp(115): warning C4838: 'int'에서 'FLOAT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\rlacj\documents\visual studio projects\directxsamples\meshes\meshes.cpp(115): warning C4244: '초기화 중': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\visual studio projects\directxsamples\meshes\meshes.cpp(102): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\rlacj\documents\visual studio projects\directxsamples\meshes\meshes.cpp(156): warning C4838: 'int'에서 'WORD'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\rlacj\documents\visual studio projects\directxsamples\meshes\meshes.cpp(156): warning C4244: '초기화 중': 'int'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\visual studio projects\directxsamples\meshes\meshes.cpp(146): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\rlacj\documents\visual studio projects\directxsamples\meshes\meshes.cpp(288): warning C4100: 'hInst': 참조되지 않은 정식 매개 변수입니다.
+Meshes.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  Meshes_2010.vcxproj -> C:\Users\rlacj\Documents\Visual Studio Projects\DirectXSamples\Meshes\Debug\Meshes.exe
+  Meshes_2010.vcxproj -> C:\Users\rlacj\Documents\Visual Studio Projects\DirectXSamples\Meshes\Debug\Meshes.pdb (Full PDB)

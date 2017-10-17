@@ -1,1 +1,37 @@
-﻿
+﻿  Shooting Game.cpp
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(90): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(96): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(183): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(189): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(190): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(191): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(193): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(194): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(203): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(204): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(602): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(609): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(615): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(622): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(629): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(636): warning C4456: 'e' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(601): note: 'e' 선언을 참조하십시오.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(637): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(637): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(650): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(686): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(705): warning C4100: 'm': 참조되지 않은 정식 매개 변수입니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(872): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(879): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(890): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(897): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(906): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(927): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(782): warning C4100: 'lpCmdLine': 참조되지 않은 정식 매개 변수입니다.
+c:\users\rlacj\documents\github\computergraphics\shooting game project(final)\shooting game.cpp(781): warning C4100: 'hPrevInstance': 참조되지 않은 정식 매개 변수입니다.
+Shooting Game.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  Matrices49860489_2010.vcxproj -> C:\Users\rlacj\Documents\GitHub\ComputerGraphics\Shooting Game project(final)\Debug\Matrices49860489.exe
+  Matrices49860489_2010.vcxproj -> C:\Users\rlacj\Documents\GitHub\ComputerGraphics\Shooting Game project(final)\Debug\Matrices49860489.pdb (Full PDB)
